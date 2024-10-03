@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|c:\\users\\hamza\\source\\repos\\paymentapprovalsystemwpf\\paymentapprovalsystemwpf\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|c:\\users\\hamza\\source\\repos\\paymentapprovalsystemwpf\\paymentapprovalsystemwpf\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|c:\\users\\hamza\\source\\repos\\paymentapprovalsystemwpf\\paymentapprovalsystemwpf\\approverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\approverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|c:\\users\\hamza\\source\\repos\\paymentapprovalsystemwpf\\paymentapprovalsystemwpf\\approverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\approverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|c:\\users\\hamza\\source\\repos\\paymentapprovalsystemwpf\\paymentapprovalsystemwpf\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\employeeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\approver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\approver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\approvalworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\approvalworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\requesthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\notificationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\notificationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\paymentapprovalsystemwpf\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C508C9AE-E5BC-4907-9A00-83D290A157AC}|PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF.csproj|solutionrelative:paymentapprovalsystemwpf\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Start.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Start.xaml.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\Start.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Start.xaml.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\Start.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwCgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:38:00.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Start.xaml",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\Start.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Start.xaml",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\Start.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T13:37:48.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApproverView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApproverView.xaml.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\ApproverView.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApproverView.xaml.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\ApproverView.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:35:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApproverView.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApproverView.xaml",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\ApproverView.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApproverView.xaml",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\ApproverView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T13:35:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\EmployeeView.xaml.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\EmployeeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\EmployeeView.xaml.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\EmployeeView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:18:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\EmployeeView.xaml",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\EmployeeView.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\EmployeeView.xaml",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\EmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T13:06:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:04:44.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\RequestHistory.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\RequestHistory.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\RequestHistory.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\RequestHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:01:02.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\NotificationSystem.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\NotificationSystem.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\NotificationSystem.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\NotificationSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:58:40.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\App.xaml",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\App.xaml",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T12:57:44.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Approver.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Approver.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\Approver.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\Approver.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\Approver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:50:12.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApprovalWorkflow.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApprovalWorkflow.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\ApprovalWorkflow.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\ApprovalWorkflow.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\ApprovalWorkflow.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:48:44.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "PaymentApprovalSystemWPF\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\PaymentApprovalSystemWPF\\PaymentApprovalSystemWPF\\PaymentRequest.cs",
+              "RelativeToolTip": "PaymentApprovalSystemWPF\\PaymentRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:47:05.123Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
